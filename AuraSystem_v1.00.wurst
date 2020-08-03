@@ -1,6 +1,8 @@
 package AuraSystem
 
 /*
+    v1.00
+    
     AuraSystem will provide you with a framework for creating your own Auras, with the ability to retrieve the source of the aura
     as well as make them stack, level, etc.
 */
